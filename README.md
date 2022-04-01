@@ -4,3 +4,5 @@
 建立一个QWidget的子类mplwidget来为QT界面创建一个画布对象。
 
 参考：《Understanding Optics with Python》 Vasudevan Lakshminarayanand等著。
+
+主文件是FrequencyFilterApp.py， 环境中包含各包就可运行
